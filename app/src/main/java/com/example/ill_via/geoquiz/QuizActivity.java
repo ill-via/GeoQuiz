@@ -77,6 +77,7 @@ public class QuizActivity extends AppCompatActivity {
                 checkAnswer(false);
             }
         });
+
 }
 
     /*@Override
